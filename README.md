@@ -1,6 +1,6 @@
 # Orange-vs-Grapfruit-Klasifikasi
 
-![Frame 1 (1)](https://freeimage.host/i/cruit.Jk1gNuj)
+![Frame 1 (1)](https://iili.io/Jk1gNuj.png)
 
 Kaggle:
 https://www.kaggle.com/code/wwankurniawan/orange-vs-grapefruit-klasifikasi?kernelSessionId=111618357
